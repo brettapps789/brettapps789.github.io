@@ -1,1 +1,2 @@
-# brettapps789.github.io
+# BrettApps.github.io
+Welcome to my professional technical portfolio and guide store.
